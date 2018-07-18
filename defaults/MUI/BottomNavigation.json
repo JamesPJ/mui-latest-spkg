@@ -1,0 +1,22 @@
+[
+    {
+      "type": "BottomNavigation",
+      "variant": "default",
+      "children": [
+        {
+            "type": "BottomNavigationAction",
+            "variant": "default",
+            "props": {
+                "label": ""
+            },
+            "children": []
+        }
+      ],
+      "namespace": "MUI",
+      "props": {
+        "value": 0,
+        "showLabels": false
+      }
+    }
+  ]
+  

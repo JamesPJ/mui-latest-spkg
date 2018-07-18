@@ -1,0 +1,12 @@
+[
+    {
+      "type": "Badge",
+      "variant": "default",
+      "children": [],
+      "namespace": "MUI",
+      "props": {
+        "color": "inherit"
+      }
+    }
+  ]
+  

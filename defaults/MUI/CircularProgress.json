@@ -1,0 +1,31 @@
+[
+    {
+        "type": "CircularProgress",
+        "variant": "default",
+        "children": [],
+        "namespace": "MUI",
+        "props": {
+            "color": "inherit"
+        }
+    },
+    {
+        "type": "CircularProgress",
+        "variant": "determinate",
+        "children": [],
+        "namespace": "MUI",
+        "props": {
+            "color": "inherit",
+            "variant": "determinate"
+        }
+    },
+    {
+        "type": "CircularProgress",
+        "variant": "static",
+        "children": [],
+        "namespace": "MUI",
+        "props": {
+            "color": "inherit",
+            "variant": "static"
+        }
+    }
+]

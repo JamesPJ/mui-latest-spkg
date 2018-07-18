@@ -1,0 +1,19 @@
+[
+    {
+      "type": "Toolbar",
+      "variant": "default",
+      "children": [],
+      "namespace": "MUI",
+      "props": {}
+    },
+    {
+        "type": "Toolbar",
+        "variant": "dense",
+        "children": [],
+        "namespace": "MUI",
+        "props": {
+          "variant": "dense"
+        }
+      }
+  ]
+  

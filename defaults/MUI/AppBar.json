@@ -1,0 +1,28 @@
+[
+    {
+      "type": "AppBar",
+      "variant": "default",
+      "children": [
+        {
+          "type": "Toolbar",
+          "variant": "default",
+          "props": {},
+          "children": [
+            {
+                "type": "span",
+                "variant": "default",
+                "props": {},
+                "children": [],
+                "text": "AppBar"
+            }
+          ]
+        }
+      ],
+      "namespace": "MUI",
+      "props": {
+        "position": "static",
+        "color": "default"
+      }
+    }
+  ]
+  

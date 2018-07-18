@@ -1,0 +1,64 @@
+[
+    {
+        "type": "Card",
+        "variant": "default",
+        "children": [
+            {
+                "type": "CardContent",
+                "variant": "default",
+                "props": {},
+                "children": [
+                    {
+                        "type": "Typography",
+                        "variant": "default"
+                    }
+                ]
+            },
+            {
+                "type": "CardActions",
+                "variant": "default",
+                "props": {},
+                "children": [
+                    {
+                        "type": "Button",
+                        "variant": "flat"
+                    }
+                ]
+            }
+        ],
+        "namespace": "MUI",
+        "props": {}
+    },
+    {
+        "type": "Card",
+        "variant": "raised",
+        "children": [
+            {
+                "type": "CardContent",
+                "variant": "default",
+                "props": {},
+                "children": [
+                    {
+                        "type": "Typography",
+                        "variant": "default"
+                    }
+                ]
+            },
+            {
+                "type": "CardActions",
+                "variant": "default",
+                "props": {},
+                "children": [
+                    {
+                        "type": "Button",
+                        "variant": "flat"
+                    }
+                ]
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "raised": true
+        }
+    }
+]

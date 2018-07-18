@@ -1,0 +1,13 @@
+[
+    {
+      "type": "BottomNavigationAction",
+      "variant": "default",
+      "children": [],
+      "namespace": "MUI",
+      "props": {
+        "label": "",
+        "icon": null
+      }
+    }
+  ]
+  

@@ -1,0 +1,9 @@
+[
+    {
+        "type": "CardActions",
+        "variant": "default",
+        "children": [],
+        "namespace": "MUI",
+        "props": {}
+    }
+]

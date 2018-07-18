@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Chip",
+        "variant": "default",
+        "children": [],
+        "namespace": "MUI",
+        "props": {
+            "label": "Basic"
+        }
+    }
+]
