@@ -1,0 +1,27 @@
+[
+    {
+        "type": "FormControl",
+        "variant": "default",
+        "children": [
+            {
+                "type": "InputLabel",
+                "variant": "default",
+                "children": [],
+                "props": {
+                    "htmlFor": "input1"
+                },
+                "text": "Input 1"
+            },
+            {
+                "type": "Input",
+                "variant": "default",
+                "children": [],
+                "props": {
+                    "id": "input1"
+                }
+            }
+        ],
+        "namespace": "MUI",
+        "props": {}
+    }
+]

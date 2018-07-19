@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Drawer",
+        "variant": "default(left)",
+        "children": [
+            {
+                "type": "DataList",
+                "namespace": "DataAware",
+                "variant": "3 items"
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "anchor": "left"
+        }
+    },
+    {
+        "type": "Drawer",
+        "variant": "right",
+        "children": [
+            {
+                "type": "DataList",
+                "namespace": "DataAware",
+                "variant": "3 items"
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "anchor": "right"
+        }
+    },
+    {
+        "type": "Drawer",
+        "variant": "top",
+        "children": [
+            {
+                "type": "DataList",
+                "namespace": "DataAware",
+                "variant": "3 items"
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "anchor": "top"
+        }
+    },
+    {
+        "type": "Drawer",
+        "variant": "bottom",
+        "children": [
+            {
+                "type": "DataList",
+                "namespace": "DataAware",
+                "variant": "3 items"
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "anchor": "bottom"
+        }
+    }
+]

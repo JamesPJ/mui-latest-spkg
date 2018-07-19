@@ -1,0 +1,36 @@
+[
+    {
+        "type": "ExpansionPanel",
+        "variant": "default(left)",
+        "children": [
+            {
+                "type": "ExpansionPanelSummary",
+                "variant": "default",
+                "children": [
+                    {
+                        "type": "span",
+                        "variant": "default",
+                        "props": {},
+                        "children": [],
+                        "text": "Accordian"
+                    }
+                ]
+            },
+            {
+                "type": "ExpansionPanelDetails",
+                "variant": "default",
+                "children": [
+                    {
+                        "type": "DataList",
+                        "namespace": "DataAware",
+                        "variant": "3 items"
+                    }
+                ]
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "expanded": true
+        }
+    }
+]

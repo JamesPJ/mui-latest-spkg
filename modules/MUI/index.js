@@ -19,8 +19,12 @@ import Drawer from '@material-ui/core/Drawer';
 import ExpansionPanel from '@material-ui/core/ExpansionPanel';
 import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
 import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
+import FormControl from '@material-ui/core/FormControl';
 import GridList from '@material-ui/core/GridList';
 import GridListTile from '@material-ui/core/GridListTile';
+import GridListTileBar from '@material-ui/core/GridListTileBar';
+import Input from '@material-ui/core/Input';
+import InputLabel from '@material-ui/core/InputLabel';
 import LayoutContainer from './components/LayoutContainer';
 import LayoutItem from './components/LayoutItem';
 import LinearProgress from '@material-ui/core/LinearProgress';
@@ -34,6 +38,7 @@ import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 import Paper from '@material-ui/core/Paper';
 import Popper from '@material-ui/core/Popper';
+import Slide from '@material-ui/core/Slide';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import TextField from '@material-ui/core/TextField';
@@ -59,8 +64,12 @@ export {
   ExpansionPanel,
   ExpansionPanelSummary,
   ExpansionPanelDetails,
+  FormControl,
   GridList,
   GridListTile,
+  GridListTileBar,
+  Input,
+  InputLabel,
   LayoutContainer,
   LayoutItem,
   LinearProgress,
@@ -74,6 +83,7 @@ export {
   MenuItem,
   Paper,
   Popper,
+  Slide,
   Tab,
   Tabs,
   TextField,

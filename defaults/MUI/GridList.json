@@ -1,0 +1,48 @@
+[
+    {
+        "type": "GridList",
+        "variant": "default",
+        "children": [
+            {
+                "type": "GridListTile",
+                "variant": "default",
+                "children": [
+                    {
+                        "type": "ListSubheader",
+                        "variant": "default",
+                        "props": {
+                            "component": "div"
+                        },
+                        "children": [],
+                        "text": "GridList"
+                    }
+                ]
+            },
+            {
+                "type": "GridListTile",
+                "variant": "default",
+                "children": [
+                    {
+                        "type": "DataList",
+                        "namespace": "DataAware",
+                        "variant": "3 items"
+                    },
+                    {
+                        "type": "GridListTileBar",
+                        "variant": "default",
+                        "props": {
+                            "title": "GridListTileBar",
+                            "subtitle": "subtitle",
+                            "actionIcon": null
+                        }
+                        
+                    }
+                ]
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "cellHeight": 180
+        }
+    }
+]

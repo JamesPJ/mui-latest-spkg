@@ -1,0 +1,61 @@
+[
+    {
+        "type": "Dialog",
+        "variant": "default",
+        "children": [
+            {
+                "type": "DialogTitle",
+                "variant": "default",
+                "props": {
+                    "id": "dialog-title"
+                },
+                "children": [
+                    {
+                        "type": "span",
+                        "variant": "default",
+                        "props": {},
+                        "children": [],
+                        "text": "Dialog"
+                    }
+                ]
+            },
+            {
+                "type": "DialogContent",
+                "variant": "default",
+                "props": {
+                    "id": "dialog-description"
+                },
+                "children": [
+                    {
+                        "type": "span",
+                        "variant": "default",
+                        "props": {},
+                        "children": [],
+                        "text": "Dialog body"
+                      }
+                ]
+            },
+            {
+                "type": "DialogActions",
+                "variant": "default",
+                "props": {},
+                "children": [
+                    {
+                        "type": "Button",
+                        "variant": "default",
+                        "props": {
+                            "color": "primary"
+                        },
+                        "children": [],
+                        "text": "Action"
+                      }
+                ]
+            }
+        ],
+        "namespace": "MUI",
+        "props": {
+            "aria-labelledby": "dialog-title",
+            "aria-describedby": "dialog-description"
+        }
+    }
+]
